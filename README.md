@@ -1,3 +1,3 @@
-#multiple-criteria-decision-making
+# multiple-criteria-decision-making
 
-This is a working in progress repository.
+This is a work in progress repository.
