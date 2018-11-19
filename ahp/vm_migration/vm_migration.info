@@ -1,0 +1,8 @@
+goal:VM MIGRATION
+criterion:CPU
+criterion:RAM
+criterion:HD
+alternative:SRV1
+alternative:SRV2
+alternative:SRV3
+costs:True
